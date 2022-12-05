@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bet/static/css/main.d5f10eea.css",
+    "main.js": "/bet/static/js/main.60d74dc7.js",
+    "static/js/787.b38641fe.chunk.js": "/bet/static/js/787.b38641fe.chunk.js",
+    "index.html": "/bet/index.html",
+    "main.d5f10eea.css.map": "/bet/static/css/main.d5f10eea.css.map",
+    "main.60d74dc7.js.map": "/bet/static/js/main.60d74dc7.js.map",
+    "787.b38641fe.chunk.js.map": "/bet/static/js/787.b38641fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5f10eea.css",
+    "static/js/main.60d74dc7.js"
+  ]
+}
